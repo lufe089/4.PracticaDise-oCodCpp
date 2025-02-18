@@ -28,7 +28,7 @@ El sistema debe permitir:
 ✅ **Liberar reservas**, lo hace al administrador manualmente cuando el usuario libera la sala
 
 ### ACTIVIDAD: Diseños propuestos
-> Para cada diseño identificar los errores, si los hay. Proponer una solución corregida
+> Para cada diseño identificar los errores, si los hay. Proponer una solución corregida. Hacer esto en un archivo llamado solucion.md
 
 ##### Diseño uno
 ```mermaid
